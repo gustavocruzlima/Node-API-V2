@@ -1,4 +1,4 @@
-import cors from 'cors';
+let cors = require('cors');
 // Import express
 let express = require('express');
 // Import Body parser
